@@ -1,1 +1,7 @@
 .centrage {text-align: center;}
+
+.copyright {
+    font-style: italic;
+    font-family: FreeSans;
+    font-size: small;
+}
