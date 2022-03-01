@@ -5,3 +5,8 @@
     font-family: FreeSans;
     font-size: small;
 }
+
+.menu {
+    background-color: darkcyan;
+    color: beige;
+}
